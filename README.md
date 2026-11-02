@@ -69,4 +69,20 @@ i build full stack apps with react, nextjs, nodejs, edge functions and react nat
 
 [dikshitrj.in](https://dikshitrj.in) · [LinkedIn](https://linkedin.com/in/dikshitrj) · [Email](mailto:dikshitrjain@gmail.com)
 
-if I don't reply, i'm probably asleep.
+if i don't reply, i'm probably asleep.
+
+## signed commits
+
+i sign my commits with gpg, so a green "Verified" next to my commits means they're really from me.
+
+```
+pub   rsa3072 2026-10-25 [SC]
+      0CA1 7F91 A93A D598 E6AA  6EF4 0629 8C0C BB25 57C9
+uid           [ultimate] Dikshit Rishi Jain (i love to sleep.) <dikshitrjain@gmail.com>
+```
+
+grab the public key from [github](https://github.com/DikshitRJ.gpg) or [keys.openpgp.org](https://keys.openpgp.org/search?q=0CA17F91A93AD598E6AA6EF406298C0CBB2557C9), then check it matches the fingerprint above:
+
+```
+curl -s https://github.com/DikshitRJ.gpg | gpg --show-keys --fingerprint
+```
