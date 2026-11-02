@@ -54,12 +54,7 @@ i build full stack apps with react, nextjs, nodejs, edge functions and react nat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DikshitRJ&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-
 <img src="https://streak-stats.demolab.com?user=DikshitRJ&background=16181d&border=2a2d34&stroke=2a2d34&ring=ff4d3d&fire=ff4d3d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=DikshitRJ&show_icons=true&hide_border=true&bg_color=16181d&title_color=ff4d3d&text_color=c9d1d9&icon_color=ff4d3d" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshitRJ&layout=compact&hide_border=true&bg_color=16181d&title_color=ff4d3d&text_color=c9d1d9" height="160" alt="top languages" />
 
 <img src="https://raw.githubusercontent.com/DikshitRJ/DikshitRJ/output/github-snake-dark.svg" alt="contribution snake" />
 
