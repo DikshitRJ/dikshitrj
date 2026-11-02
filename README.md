@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16181d,100:ff4d3d&height=140&section=header&text=DikshitRJ&fontColor=ffffff&fontSize=46&fontAlignY=38" alt="DikshitRJ" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=FF4D3D&center=true&vCenter=true&width=700&lines=most+people+complete+JEE+and+sleep+for+a+week...;i+opened+my+laptop+and+started+a+company;linux+%2B+rust+%2B+agents%2C+mostly+for+fun" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=FF4D3D&center=true&vCenter=true&width=700&lines=most+people+complete+JEE+and+sleep+for+a+week...;i+opened+my+laptop+and+started+a+company" alt="typing intro" />
 
 <br/>
 
@@ -13,11 +13,11 @@
 
 </div>
 
-## hey, I'm Dikshit
+## hey, i'm DikshitRJ
 
-Most people complete JEE and sleep for a week. I opened my laptop and started a company.
+most people complete JEE and sleep for a week. I opened my laptop and started a company.
 
-It didn't work out the way we hoped, and I learned a lot from it. The team carried on as Meritverse, a small software consultancy where we build web apps and AI agents for clients. I'm a first year at NITK Surathkal now, studying metallurgy and writing a lot more code than the degree asks for. I'll probably end up running my own thing someday, but there's no rush. I'm going with the flow and seeing where it takes me.
+it didn't work out the way we hoped, and i learned a lot from it. the team carried on as Meritverse Pvt Ltd, a small software consultancy where we build web apps and ai agents for clients. i'm a first year at NITK Surathkal now, studying metallurgy and writing a lot more code than the degree asks for. i'll probably end up running my own thing someday, but there's no rush. i'm going with the flow and seeing where it takes me.
 
 ```
 dikshit@opensuse
@@ -26,26 +26,25 @@ OS         openSUSE
 Uptime     first year at NITK Surathkal
 Langs      Rust (for fun), Python, TypeScript, Go, C++
 Agents     LangGraph, MCP servers, RAG
-Day job    Meritverse (software consultancy)
+Day job    Meritverse Pvt Ltd (software consultancy)
+Campus     IRIS web team, GDG at Web Enthusiasts' Club
 Sleep      loves it
 ```
 
-## what I'm good at
+## what i'm good at
 
-I run openSUSE and I like knowing what's going on underneath. That's why I write Rust and C++ for fun, usually low-level things like graphics, encoding, compression and hashing, and I try to do it without AI help because that's half the enjoyment. I also tinker with ESP32 boards and do some competitive programming.
+i run opensuse and i like knowing what's going on underneath. that's why i write rust for fun, usually low-level things like graphics, encoding, compression and hashing, and i try to do it without ai help because that's half the enjoyment. i also tinker with esp32 and do some competitive programming.
 
-I'm a nerd about agentic AI. I build with LangGraph, MCP servers and RAG, and what I like most is getting an LLM to do a whole job, pause when a person needs to approve something, and pick up again after.
+i'm a nerd about agentic ai. i build with langgraph, mcp servers and rag, and what I like most is getting an llm to do a whole job, pause when a person needs to approve something, and pick up again after.
 
-I build full stack apps with React, NextJS, NodeJS, edge functions and React Native. On the backend side I'm comfortable with Docker, CI/CD, Google Cloud, Cloudflare, Postgres, MongoDB and Redis, and I like shipping things so they keep running after I close the laptop.
+i build full stack apps with react, nextjs, nodejs, edge functions and react native. on the backend side I'm great with docker, ci/cd, google cloud, cloudflare, postgres, mongodb and redis, and i like shipping things so they keep running after i close the laptop.
 
-This is the rough shape most of my agents end up with:
+## where i hang out
 
-```mermaid
-flowchart LR
-  A[trigger] --> B[gather context] --> C[LLM decides] --> D[draft the output] --> E{human approves?}
-  E -->|yes| F[act]
-  E -->|no| C
-```
+- Meritverse Pvt Ltd, founder and director (jun 2026 to now). i look after clients, growth and the tech side, which means full stack apps, ai automations, devops and cloud.
+- IRIS, NITK, code-in intern on the web and app team (nov 2026 to now). IRIS is the official app of NITK and a lot of campus life runs on it. all the 7000 students on campus and the management and faculty use it in their day-to-day life. i'm the only first year on the team.
+- Web Enthusiasts' Club NITK, GDG member (oct 2026 to now). one of three first years in GDG. it is one of the most selective clubs on campus, and its teams go to national and international hackathons, including ethglobal events.
+- AlphaJEE, co-founder and CTO (mar to jun 2026). i ran the backend for an edtech platform on google cloud with docker and ci/cd.
 
 ## the toolbox
 
@@ -68,6 +67,6 @@ flowchart LR
 
 ## find me
 
-[dikshitrj.in](https://dikshitrj.in) · [LinkedIn](https://linkedin.com/in/dikshitrj)
+[dikshitrj.in](https://dikshitrj.in) · [LinkedIn](https://linkedin.com/in/dikshitrj) · [Email](mailto:dikshitrjain@gmail.com)
 
-If I don't reply, I'm probably asleep.
+if I don't reply, i'm probably asleep.
