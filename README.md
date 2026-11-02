@@ -64,11 +64,11 @@ i build full stack apps with react, nextjs, nodejs, edge functions and react nat
 
 [dikshitrj.in](https://dikshitrj.in) · [LinkedIn](https://linkedin.com/in/dikshitrj) · [Email](mailto:dikshitrjain@gmail.com)
 
-if i don't reply, i'm probably asleep.
+if i don't reply, i'm probably asleep (i love to sleep) .
 
 ## signed commits
 
-i sign my commits with gpg, so a green "Verified" next to my commits means they're really from me.
+i sign my commits with gpg.
 
 ```
 pub   rsa3072 2026-10-25 [SC]
